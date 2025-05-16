@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+html{
+    width: 100%;
+    height: auto;
+}
+
+body{
+    font-family: 'Montserrat';
+}
+
